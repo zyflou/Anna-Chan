@@ -22,7 +22,7 @@ You agree not to misuse the Bot or use it for illegal activities. The following 
 - We respect your privacy and follow applicable data protection regulations. For more information, please refer to our Privacy Policy.
 
 ### 4. **Intellectual Property**
-- All code and features of the Bot are the intellectual property of [Christopher R.](https://github.com/zyflou) unless otherwise specified.
+- All code and features of the Bot are the intellectual property of [Drian.](https://github.com/zyflou) unless otherwise specified.
 - Any music played via the Bot is the intellectual property of its respective owners. [Anna Chan~](https://top.gg/bot/1278799712648171552) does not host or store any music content but fetches it from third-party services (e.g., Spotify, YouTube Music).
 
 ### 5. **Disclaimer of Warranties**
@@ -30,7 +30,7 @@ You agree not to misuse the Bot or use it for illegal activities. The following 
 - We do not guarantee that the Bot will be error-free or available at all times.
 
 ### 6. **Limitation of Liability**
-- [Christopher R.](https://github.com/zyflou) is not liable for any indirect, incidental, or consequential damages arising out of your use of the Bot.
+- [Drian.](https://github.com/zyflou) is not liable for any indirect, incidental, or consequential damages arising out of your use of the Bot.
 - We are not responsible for any harm or data loss that may occur due to the misuse of the Bot or due to technical errors.
 
 ### 7. **Termination**
