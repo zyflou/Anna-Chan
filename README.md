@@ -32,4 +32,4 @@ For support or questions regarding Anna Chan~, please reach out via [Support Ser
 
 ---
 
-This bot is maintained by [Christopher R.](https://github.com/zyflou). Thank you for using **Anna Chan~** and enjoy your music experience!
+This bot is maintained by [Drian.](https://github.com/zyflou). Thank you for using **Anna Chan~** and enjoy your music experience!
